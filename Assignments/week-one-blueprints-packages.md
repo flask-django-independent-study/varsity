@@ -2,6 +2,8 @@
 
 #### This will assist you in maintaining best practices, and staying sane when working with large projects.
 
+#### [Resources](https://github.com/flask-django-independent-study/varsity/blob/master/Resources/Week-1.md)
+
 Let's get started!
 
 1. Clone into the repository:
@@ -29,4 +31,4 @@ We know you got this!
 
   2. Add url_prefixes to your __init__ file and clean up your code!
 
-  3. I don't know, make it cool! It looks super boring right now, so add styling, add more routes, make it yours! 
+  3. I don't know, make it cool! It looks super boring right now, so add styling, add more routes, make it yours!
