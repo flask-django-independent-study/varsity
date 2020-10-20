@@ -1,6 +1,8 @@
 # Flask Django Independent Study
 ### Varsity Team
 
+You are the Flask. Within the Flask lies the knowledge.
+
 ## Description
 
 Flask Django Independent Study (FDIS) serves as a resource for those who want to accelerate their skills and knowledge.
