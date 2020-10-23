@@ -27,7 +27,7 @@ pip install flask flask-sqlalchemy sqlite3
 4. Freeze to your requirements.txt
 
 ```zsh
-freeze >> requirements.txt
+freeze > requirements.txt
 ```
 
 5. In your directory, check out the example database model. We're going to be writing something like this. But first, we have some setting up to do.
@@ -84,10 +84,35 @@ db.create_all()
 
 You should see a file called database.db appear on the left hand side of your screen. Great job!
 
-11. Now, here's the annoying thing about SQL: every time you change the database models, you're going to need to re-create the database. To do this, you can follow the same instructions as step 10, but instead of creating the database:
+11. Now, here's the annoying thing about SQL: every time you change the database models, you're going to need to re-create the database. To do this, do the following:
+
+```zsh
+python3
+```
+
+This should begin running python. In your terminal you should see the three little arrows like this:
+
+```zsh
+>>>
+```
+
+Indicating that python is able to take commands.
+Run the following:
+
+```zsh
+from app import db
+```
+
+Then drop the current database:
 
 ```zsh
 db.drop_all()
+```
+
+And create the new database:
+
+```zsh
+db.create_all()
 ```
 
 Alternatively, you can delete the database.db file from your file tree, and follow the steps to just re-create it. Whichever works for you is fine.
