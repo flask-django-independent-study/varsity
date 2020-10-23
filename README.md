@@ -37,7 +37,7 @@ and adding fuel to the fire. After solidifying advanced skills in Flask, we will
 
 Week | Topic | Due
 ---- | ---- | ----
-1 | Blueprints & Packages | October 23
+1 | [Blueprints & Packages](https://github.com/flask-django-independent-study/varsity/blob/master/Assignments/week-one-blueprints-packages.md) | October 23
 2 | Admin, Login & Authentication | October 30
 3 | Handling Uploads & Socketio | November 6
 4 | Advanced Authentication | November 13
