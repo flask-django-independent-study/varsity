@@ -13,7 +13,7 @@ For this tutorial, we will be using SQLite. This is a great way to get started w
 1. Clone into the repository:
 
 ```zsh
-git clone ***
+git clone https://github.com/flask-django-independent-study/sql-sqlalchemy-tutorial
 ```
 
 2. Set up your virtual environment! You all should be good on this, but if you have questions, check online for resources OR check out the Rookie week one Halloween Party assignment for a list of instructions!
@@ -126,4 +126,4 @@ Check database.db - did some things disappear? Congrats! It works! Alternatively
 
 ### Submission:
 
-Link this in your tracker if you completed it so that you can get it reviewed! And, as always, if you find any typos, open an issue on the repository (either this one or the project repo). If you need clarification or have questions, come to office hours or send us a slack message! 
+Link this in your tracker if you completed it so that you can get it reviewed! And, as always, if you find any typos, open an issue on the repository (either this one or the project repo). If you need clarification or have questions, come to office hours or send us a slack message!
