@@ -4,7 +4,7 @@
 
 #### [Resources](https://github.com/flask-django-independent-study/varsity/blob/master/Resources/Week-2.md)
 
-Let's get started!
+#### Let's get started!
 
 Clone the repository
 ```zsh
