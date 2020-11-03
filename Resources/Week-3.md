@@ -19,3 +19,9 @@ They are simply here to serve you.
 [Creating a Chat App With Flask-SocketIO](https://www.youtube.com/watch?v=RdSrkkrj3l4&t)
 
 [Adding Chat History to Flask-SocketIO Chat With Flask-SQLAlchemy](https://www.youtube.com/watch?v=pigpDSOBNMc)
+
+## Axios
+
+[Docs](https://github.com/axios/axios)
+
+[Sending JavaScript Http Requests with Axios](https://www.youtube.com/watch?v=qM4G1Ai2ZpE)
