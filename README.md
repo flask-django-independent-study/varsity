@@ -40,8 +40,8 @@ Week | Topic | Due
 1 | [Blueprints & Packages](https://github.com/flask-django-independent-study/varsity/blob/master/Assignments/Week-1.md) | October 23
 2 | [Admin, Login & Authentication](https://github.com/flask-django-independent-study/varsity/blob/master/Assignments/Week-2.md) | October 30
 3 | [Handling Uploads & SocketIO](https://github.com/flask-django-independent-study/varsity/blob/master/Assignments/Week-3.md) | November 6
-4 | Advanced Authentication | November 13
-5 | Building a REST API | Novemeber 20
+4 | [Build a REST API](https://github.com/flask-django-independent-study/varsity/blob/master/Assignments/Week-4.md) | November 13
+5 | Advanced Authentication | Novemeber 20
 6 | Django Routes, Templates, and Forms | Novemeber 27
 7 | Django Authentication | December 4
 
