@@ -29,7 +29,7 @@ and adding fuel to the fire. After solidifying advanced skills in Flask, we will
 * Handle file uploads
 * Understand and implement HTTP vs WSS
 * Use token and HTTP authentication
-* Use Flask-Restless to create an API
+* Create a REST API
 * Use routes, templates, and forms in Django
 * Authenticate users in Django
 
