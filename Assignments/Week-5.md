@@ -4,6 +4,8 @@
 
 There is a video in the resources to explain sessions vs tokens. The main takeaway is that once we move away from serving html templates to rendering html with dynamic JavaScript, we need a new way of authenticating users. While sessions are stored on the back-end, tokens are kept in the front-end and then sent with every request to the back-end in the request header.
 
+**This week we will be building off of the-bank app from last week.**
+
 #### [Resources](https://github.com/flask-django-independent-study/varsity/blob/master/Resources/Week-5.md)
 
 ## Let's get started!
