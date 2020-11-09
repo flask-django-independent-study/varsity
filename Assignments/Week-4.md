@@ -14,6 +14,10 @@ REST stand for representational state transfer. It's just a fancy way for saying
 
 You may have heard of GraphQL, which is another type of API. GraphQL is a bit more involved to set up so we'll stick to REST for now. If you would like to learn more about the differences there is a video in the resources page.
 
+### API Endpoints
+
+In the project you'll see me write "endpoint". An endpoint or API endpoint is just a route that the front-end can make requests to and get json data in return.
+
 #### [Resources](https://github.com/flask-django-independent-study/varsity/blob/master/Resources/Week-4.md)
 
 ## Let's get started!
