@@ -1,4 +1,4 @@
-# Flask-Restless
+# REST API
 
 #### The Importance of APIs
 
@@ -9,10 +9,6 @@ This allows the front-end and back-end to be detached. In the real world, that p
 #### What does REST stand for?
 
 REST stand for representational state transfer. It's just a fancy way for saying the server can CRUD (create, read, update, and delete) database resources. The core idea is that every server url serves as an access point to the database resources.
-
-#### What is Flask-Restless?
-
-Creating a RESTful API can be cumbersome and overwhelming. Flask-Restless offers an APIManager to handle all of the heavy lifting for you!
 
 #### REST API vs GraphQL
 
